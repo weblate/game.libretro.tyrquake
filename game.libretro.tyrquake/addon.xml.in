@@ -9,15 +9,17 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms></platforms>
-		<extensions></extensions>
+		<extensions>pak</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 		<supports_keyboard>true</supports_keyboard>
 		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Quake 1 (TyrQuake)</summary>
-		<description>Tyr-Quake is a branch of the Quake source code released by id. It&#39;s intended to support Quake and Quakeworld while fixing little bugs that have come up over the years.</description>
+		<summary lang="en">Quake 1 (TyrQuake) v0.62</summary>
+		<description>Tyr-Quake is a branch of the Quake source code released by id. It&#39;s intended to support Quake and Quakeworld while fixing little bugs that have come up over the years.
+
+Supported files: .pak</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<assets>
