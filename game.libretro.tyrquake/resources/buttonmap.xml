@@ -2,13 +2,13 @@
 <buttonmap version="2">
   <controller id="game.controller.default" type="RETRO_DEVICE_JOYPAD">
     <!-- Look up -->
-    <feature name="y" mapto="RETRO_DEVICE_ID_JOYPAD_Y"/>
+    <feature name="y" mapto="RETRO_DEVICE_ID_JOYPAD_X"/>
     <!-- Look down -->
-    <feature name="a" mapto="RETRO_DEVICE_ID_JOYPAD_A"/>
+    <feature name="a" mapto="RETRO_DEVICE_ID_JOYPAD_B"/>
     <!-- Look right -->
-    <feature name="b" mapto="RETRO_DEVICE_ID_JOYPAD_B"/>
+    <feature name="b" mapto="RETRO_DEVICE_ID_JOYPAD_A"/>
     <!-- Look left -->
-    <feature name="x" mapto="RETRO_DEVICE_ID_JOYPAD_X"/>
+    <feature name="x" mapto="RETRO_DEVICE_ID_JOYPAD_Y"/>
     <!-- D-Pad Up -->
     <feature name="up" mapto="RETRO_DEVICE_ID_JOYPAD_UP"/>
     <!-- D-Pad Down -->
