@@ -115,9 +115,9 @@
     <feature name="x" mapto="RETROK_x"/>
     <feature name="y" mapto="RETROK_y"/>
     <feature name="z" mapto="RETROK_z"/>
-    <feature name="leftbrace" maptop="RETROK_LEFTBRACE"/>
-    <feature name="bar" maptop="RETROK_BAR"/>
-    <feature name="rightbrace" maptop="RETROK_RIGHTBRACE"/>
+    <feature name="leftbrace" mapto="RETROK_LEFTBRACE"/>
+    <feature name="bar" mapto="RETROK_BAR"/>
+    <feature name="rightbrace" mapto="RETROK_RIGHTBRACE"/>
     <feature name="tilde" mapto="RETROK_TILDE"/>
     <feature name="delete" mapto="RETROK_DELETE"/>
     <!-- Numeric keypad -->
