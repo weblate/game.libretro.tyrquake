@@ -25,11 +25,11 @@ msgid "Colored lighting (restart)"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Resolution (restart)"
+msgid "Invert Y Axis"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Change retropad layout"
+msgid "Resolution (restart)"
 msgstr ""
 
 msgctxt "#30004"
