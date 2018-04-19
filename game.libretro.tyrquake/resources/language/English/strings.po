@@ -21,18 +21,22 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Colored lighting (restart)"
+msgid "Analog Deadzone (percent)"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Invert Y Axis"
+msgid "Colored lighting (restart)"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Resolution (restart)"
+msgid "Invert Y Axis"
 msgstr ""
 
 msgctxt "#30004"
+msgid "Resolution (restart)"
+msgstr ""
+
+msgctxt "#30005"
 msgid "Rumble"
 msgstr ""
 
