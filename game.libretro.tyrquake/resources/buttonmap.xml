@@ -20,7 +20,7 @@
     <!-- Previous weapon -->
     <feature name="leftbumper" mapto="RETRO_DEVICE_ID_JOYPAD_L"/>
     <!-- Next weapon -->
-    <feature name="rightbumper" mapto="RETRO_DEVICE_ID_JOYPAD_L"/>
+    <feature name="rightbumper" mapto="RETRO_DEVICE_ID_JOYPAD_R"/>
     <!-- Jump -->
     <feature name="lefttrigger" mapto="RETRO_DEVICE_ID_JOYPAD_L2"/>
     <!-- Fire -->
