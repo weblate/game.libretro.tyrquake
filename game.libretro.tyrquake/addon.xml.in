@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.tyrquake"
 		name="Quake 1 (TyrQuake)"
-		version="0.62.0.0"
+		version="0.62.0.1"
 		provider-name="Libretro">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
