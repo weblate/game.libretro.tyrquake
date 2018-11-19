@@ -4,7 +4,7 @@ project(game.libretro.tyrquake)
 list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
 
 find_package(Kodi REQUIRED)
-find_package(libretro-tyrquake REQUIRED)
+find_library(TYRQUAKE_LIB NAMES tyrquake_libretro${CMAKE_SHARED_LIBRARY_SUFFIX} PATH_SUFFIXES libretro)
 
 set(TYRQUAKE_CUSTOM_BINARY ${TYRQUAKE_LIB}
     ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
