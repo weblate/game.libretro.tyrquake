@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <buttonmap version="2">
-  <controller id="game.controller.default" type="RETRO_DEVICE_JOYPAD">
-    <!-- Look up -->
+  <controller id="game.controller.default" type="RETRO_DEVICE_ANALOG" subclass="2">
+    <!-- Strafe Left -->
     <feature name="y" mapto="RETRO_DEVICE_ID_JOYPAD_X"/>
-    <!-- Look down -->
+    <!-- Swim Down -->
     <feature name="a" mapto="RETRO_DEVICE_ID_JOYPAD_B"/>
-    <!-- Look right -->
+    <!-- Strafe Right -->
     <feature name="b" mapto="RETRO_DEVICE_ID_JOYPAD_A"/>
-    <!-- Look left -->
+    <!-- Swim Up -->
     <feature name="x" mapto="RETRO_DEVICE_ID_JOYPAD_Y"/>
     <!-- D-Pad Up -->
     <feature name="up" mapto="RETRO_DEVICE_ID_JOYPAD_UP"/>
@@ -31,8 +31,12 @@
     <feature name="rightthumb" mapto="RETRO_DEVICE_ID_JOYPAD_R3"/>
     <!-- Menu -->
     <feature name="start" mapto="RETRO_DEVICE_ID_JOYPAD_START"/>
-    <!-- Toggle console -->
+    <!-- Show Scores -->
     <feature name="back" mapto="RETRO_DEVICE_ID_JOYPAD_SELECT"/>
+    <!-- Left Analog stick -->
+    <feature name="leftstick" mapto="RETRO_DEVICE_INDEX_ANALOG_LEFT"/>
+    <!-- Right Analog stick -->
+    <feature name="rightstick" mapto="RETRO_DEVICE_INDEX_ANALOG_RIGHT"/>
   </controller>
   <controller id="game.controller.mouse" type="RETRO_DEVICE_MOUSE">
     <feature name="left" mapto="RETRO_DEVICE_ID_MOUSE_LEFT"/>
