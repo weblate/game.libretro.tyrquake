@@ -33,7 +33,7 @@ msgid "Invert Y Axis"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Resolution (restart)"
+msgid "Internal resolution (restart)"
 msgstr ""
 
 msgctxt "#30005"
