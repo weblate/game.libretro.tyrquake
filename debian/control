@@ -13,5 +13,5 @@ Section: libs
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, kodi, kodi-game-libretro
 Enhances: kodi
-Description: Quake 1 (TyrQuake) core for kodi's retroplayer
- Quake 1 (TyrQuake) core for kodi's retroplayer
+Description: Quake (TyrQuake) core for kodi's retroplayer
+ Quake (TyrQuake) core for kodi's retroplayer
