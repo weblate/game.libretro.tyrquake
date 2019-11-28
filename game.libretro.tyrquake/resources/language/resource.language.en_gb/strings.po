@@ -29,13 +29,17 @@ msgid "Colored lighting (restart)"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Invert Y Axis"
+msgid "Framerate (restart)"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Internal resolution (restart)"
+msgid "Invert Y Axis"
 msgstr ""
 
 msgctxt "#30005"
+msgid "Internal resolution (restart)"
+msgstr ""
+
+msgctxt "#30006"
 msgid "Rumble"
 msgstr ""
